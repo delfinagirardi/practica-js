@@ -21,4 +21,3 @@ const misDatos2 = {
     }
 };
 
-console.log(misDatos2.saludar());

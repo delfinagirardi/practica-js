@@ -97,3 +97,7 @@ for (let i = 0; i < got.length; i++) {
     console.log(mensaje1);
     console.log(mensaje2);
 }
+for (let i = 0; i < got.length; i++) {
+    let persona = got[i]
+    console.log(`Soy ${persona.nombre} ${persona.apellido} de la ciudad ${persona.ciudad}`)
+}
